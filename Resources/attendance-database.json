@@ -1,0 +1,31 @@
+{
+  "Users": {
+    "CE102": {
+      "Department": "CE",
+      "Name": "Manan",
+      "PercentAttendance": 81,
+      "RollNo": "CE102",
+      "Semester": 4,
+      "Totallecturepassed": 13,
+      "TotallecturesAttended": 17
+    },
+    "CE111": {
+      "Department": "CE",
+      "Name": "Ashish",
+      "PercentAttendance": 85,
+      "RollNo": "CE111",
+      "Semester": 4,
+      "Totallecturepassed": 14,
+      "TotallecturesAttended": 16
+    },
+    "CE153": {
+      "Department": "CE",
+      "Name": "Malay",
+      "PercentAttendance": 85,
+      "RollNo": "CE153",
+      "Semester": 4,
+      "Totallecturepassed": 14,
+      "TotallecturesAttended": 16
+    }
+  }
+}
