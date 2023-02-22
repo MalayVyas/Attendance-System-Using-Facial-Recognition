@@ -2,10 +2,7 @@ import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import db
 
-cred = credentials.Certificate("Resources/ServiceAccountKey.json")
-firebase_admin.initialize_app(cred, {
-    "databaseURL": "https://attendance-database-b5042-default-rtdb.firebaseio.com/"
-})
+#Here,the credetials of the database are removed on purpose to maintain the security of the database.
 
 ref = db.reference('AttendanceDatabase')
 
